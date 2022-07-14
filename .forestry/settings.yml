@@ -6,7 +6,7 @@ webhook_url:
 sections:
 - type: document
   path: portfolio/index.md
-  label: Homepage
+  label: Leandro Gutierrez
   templates:
   - settings
 - type: directory
