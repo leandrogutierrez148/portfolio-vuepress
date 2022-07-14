@@ -10,18 +10,6 @@
       "link": "https://www.linkedin.com/in/lgutierrez148/",
       "position": "right",
       "external": true
-    },
-    {
-      "text": "Works",
-      "link": "/",
-      "position": "left",
-      "external": false
-    },
-    {
-      "text": "Say hi!",
-      "link": "mailto:sayhi@mydomain.com",
-      "position": "right",
-      "external": true
     }
   ]
 }
