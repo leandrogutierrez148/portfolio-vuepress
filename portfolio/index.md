@@ -1,6 +1,6 @@
 ---
 works_index: true
-hero_text: "<strong>We're Acme</strong>, we work for brands. But most importantly, we work for fun."
+hero_text: "<strong>Hi i'm Leandro. This is a test profile page.<br>See u</strong>"
 title: Hero
 
 ---
