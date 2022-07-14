@@ -4,13 +4,6 @@ auto_deploy: true
 admin_path: "/admin"
 webhook_url: 
 sections:
-- type: directory
-  path: ''
-  label: Directory test
-  create: all
-  match: "**/*"
-  templates:
-  - home
 - type: document
   path: portfolio/index.md
   label: Leandro Gutierrez
@@ -23,13 +16,6 @@ sections:
   match: "**/*"
   templates:
   - works
-- type: directory
-  path: portfolio/journal
-  label: Journal
-  create: all
-  match: "**/[!index]*"
-  templates:
-  - journal
 - type: heading
   label: Data
 - type: document
