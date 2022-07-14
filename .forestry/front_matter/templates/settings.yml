@@ -57,3 +57,4 @@ fields:
   default: ''
 pages:
 - portfolio/config.json
+- portfolio/config.json
