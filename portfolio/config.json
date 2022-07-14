@@ -1,16 +1,10 @@
 {
-  "title": "Acme",
-  "description": "Creative Agency",
+  "title": "Leandro Gutierrez",
+  "description": "Software Engineer",
   "logo": "/upload/logo.svg",
-  "footer": "Ⓒ Acme",
+  "footer": "Ⓒ Leandro E Gutierrez",
   "favicon": "favicon-32x32.png",
   "navigation": [
-    {
-      "text": "Test Linkendin",
-      "link": "https://www.linkedin.com/in/lgutierrez148/",
-      "position": "left",
-      "external": true
-    },
     {
       "text": "Works",
       "link": "/",
@@ -18,9 +12,9 @@
       "external": false
     },
     {
-      "text": "Instagram",
-      "link": "https://www.instagram.com/its.nwa",
-      "position": "left",
+      "text": "Linkendin",
+      "link": "https://www.linkedin.com/in/lgutierrez148/",
+      "position": "right",
       "external": true
     },
     {
@@ -28,12 +22,6 @@
       "link": "mailto:sayhi@mydomain.com",
       "position": "right",
       "external": true
-    },
-    {
-      "text": "Journal",
-      "link": "/journal/",
-      "position": "right",
-      "external": false
     }
   ]
 }
