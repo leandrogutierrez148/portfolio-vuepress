@@ -7,7 +7,9 @@
       left: '0',
       width: '100%',
       height: '65px',
-      background: 'white'
+      background: 'white',
+      padding-top: '35px',
+      padding-bottom: '35px'
     }"
   >
 
