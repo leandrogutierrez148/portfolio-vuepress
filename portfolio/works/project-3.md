@@ -1,7 +1,7 @@
 ---
 title: 3rd is the last
 date: 2017-02-04T00:00:00.000+00:00
-thumbnail: "/upload/photo-1504198322253-cfa87a0ff25f.jpeg"
+thumbnail: "/upload/stsci-01g7wd4y58kcqd3xtacye926wc.png"
 year: 2017
 categories: []
 description: are you there?
@@ -11,4 +11,4 @@ description: are you there?
 
 this is incredible
 
-![](/upload/photo-1504198322253-cfa87a0ff25f.jpeg)
+![](/upload/stsci-01g7wd4y58kcqd3xtacye926wc.png)
