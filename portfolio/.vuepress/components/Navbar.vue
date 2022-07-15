@@ -7,9 +7,7 @@
       left: '0',
       width: '100%',
       height: '65px',
-      background: 'white',
-      padding-top: '35px',
-      padding-bottom: '35px'
+      background: 'white'
     }"
   >
 
@@ -128,6 +126,8 @@
     font-size: 0.8rem;
     font-weight: 600;
     z-index: 10;
+    padding-top: 40px;
+    padding-bottom: 40px;
   }
 
   .logo {
