@@ -14,14 +14,9 @@ fields:
     schema:
       format: html
 - name: footer
-  type: number
-  label: Footer
-  description: ''
-  default: 0
-  required: true
+  type: text
   config:
-    min: 
-    max: 
-    step: 
+    required: false
+  label: Footer
 pages:
 - portfolio/index.md
