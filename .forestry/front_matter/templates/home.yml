@@ -14,9 +14,13 @@ fields:
     schema:
       format: html
 - name: footer
-  type: text
+  type: textarea
+  default: ''
   config:
     required: false
+    wysiwyg: true
+    schema:
+      format: html
   label: Footer
 pages:
 - portfolio/index.md
