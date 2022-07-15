@@ -13,5 +13,15 @@ fields:
     wysiwyg: true
     schema:
       format: html
+- name: footer
+  type: number
+  label: Footer
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
 pages:
 - portfolio/index.md
