@@ -10,6 +10,6 @@ categories:
 ---
 # Huayna Picchu / Machu Picchu
 
-En el [idioma quechua](https://es.wikipedia.org/wiki/Idioma_quechua "Idioma quechua"), _machu_ significa «viejo» o «anciano», mientras que _picchu_ significa «pico, montaña o [prominencia](https://es.wikipedia.org/wiki/Prominencia "Prominencia") con una amplia base que termina en puntas agudas»; por lo tanto, el nombre del sitio significa «montaña vieja»
+En el [idioma quechua](https://es.wikipedia.org/wiki/Idioma_quechua "Idioma quechua"), _machu_ significa «viejo» o «anciano», mientras que _picchu_ significa «pico, montaña»
 
 ![](/upload/machu-picchu.JPG)
