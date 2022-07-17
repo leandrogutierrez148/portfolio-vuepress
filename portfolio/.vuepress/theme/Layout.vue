@@ -1,7 +1,7 @@
 <template>
   <div class="wrapper">
 
-    <Navbar :logo="$site.themeConfig.logo" :sticky="$route.path === '/'" />
+    <Navbar :logo="$site.themeConfig.logo" :sticky="true" />
 
     <div class="container">
 
@@ -9,7 +9,7 @@
       <div
         v-if="$route.path === '/'"
         :style="{
-          marginTop: '14vw'
+          marginTop: '5vw'
         }"
       >
         <Content/>
@@ -21,6 +21,9 @@
           :title="$page.frontmatter.title"
           :year="$page.frontmatter.year.toString()"
           :categories="$page.frontmatter.categories"
+          :style="{
+            marginTop: '10vw'
+          }"
         />
         <Content/>
       </div>
