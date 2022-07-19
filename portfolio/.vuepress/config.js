@@ -9,7 +9,11 @@ module.exports = {
     nav: config.navigation,
   },
   head: [
-    ['link', { rel: "icon", href: config.favicon }]
+    ['link', { rel: "icon", href: config.favicon }],
+    ['script', {
+      src: "https://plausible.io/js/plausible.js",
+      dataDomain: "leandrogutierrez.com"
+    }]
   ],
   markdown: {
     anchor: {
