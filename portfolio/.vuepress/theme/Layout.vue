@@ -9,7 +9,7 @@
       <div
         v-if="$route.path === '/'"
         :style="{
-          marginTop: '25vw'
+          marginTop: '15vh'
         }"
       >
         <Content/>
@@ -22,7 +22,7 @@
           :year="$page.frontmatter.year.toString()"
           :categories="$page.frontmatter.categories"
           :style="{
-            marginTop: '20vw'
+            marginTop: '15vh'
           }"
         />
         <Content/>
